@@ -1,3 +1,5 @@
 This is a test note.
 
 Creating a new branch is quick and simple.
+
+Not use Fast-Forward mode.
