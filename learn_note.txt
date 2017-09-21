@@ -5,3 +5,6 @@ Creating a new branch is quick and simple.
 Not use Fast-Forward mode.
 
 Fix bug-101 quick.
+
+add some work but not finish,new function comleted.
+
